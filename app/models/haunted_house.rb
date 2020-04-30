@@ -1,4 +1,4 @@
 # Create your HauntedHouse class here
-class HuantedHouse < ActiveRecord::Base
-end
+# class HuantedHouse < ActiveRecord::Base
+# end
 
